@@ -84,11 +84,6 @@ An all-in-one smart campus platform that centralizes academic resources, announc
 
 **Tech:** React.js, JavaScript, Node.js, MongoDB
 
-### 🤖 Smart AI Resume Analyzer
-
-An AI-powered system that analyzes resumes, identifies skill gaps, and provides career recommendations using Machine Learning and NLP.
-
-**Tech:** Python, Flask, Machine Learning, Scikit-Learn
 
 ---
 
