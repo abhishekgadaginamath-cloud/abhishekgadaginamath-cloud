@@ -45,7 +45,7 @@ An all-in-one campus platform for announcements, resources, events, and student 
 ## 📫 Connect with me
 
 - Email: abhishekgadaginamath@gmail.com
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: https://www.linkedin.com/in/abhishek-gadaginamath-4283171b4/?skipRedirect=true
 
 <!--
 **abhishekgadaginamath-cloud/abhishekgadaginamath-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
