@@ -53,12 +53,6 @@ I'm a Computer Science and Engineering student at Jain College of Engineering an
 
 ## 🌟 Featured Projects
 
-### 💼 CodeFolio
-
-A full-stack portfolio builder that helps developers create and manage professional portfolios without coding.
-
-**Tech:** React.js, Node.js, Express.js, MongoDB
-
 ### 🎯 HabitForge
 
 A gamified habit-tracking platform designed to improve productivity, consistency, and self-discipline through streaks, analytics, and progress tracking.
